@@ -1,0 +1,24 @@
+/* .themify_builder_76_row.module_row_0 Style */
+.themify_builder_76_row.module_row_0.module_row {
+	background-image: url(http://localhost:8888/parallax/wp-content/uploads/2016/11/Back.jpg)
+}
+
+/* .module_row_0 .module_column_0.tb_76_column Style */
+.module_row_0 .module_column_0.tb_76_column.module_column {
+	background-image: url(http://localhost:8888/parallax/wp-content/uploads/2016/11/Cutout01.png);
+	padding-top : 25%;
+	padding-bottom : 30%
+}
+
+/* .themify_builder_76_row.module_row_1 Style */
+.themify_builder_76_row.module_row_1.module_row {
+	background-image: url(http://localhost:8888/parallax/wp-content/uploads/2016/11/Back-1.jpg)
+}
+
+/* .module_row_1 .module_column_0.tb_76_column Style */
+.module_row_1 .module_column_0.tb_76_column.module_column {
+	background-image: url(http://localhost:8888/parallax/wp-content/uploads/2016/11/Cutout05.png);
+	padding-top : 30%;
+	padding-bottom : 30%
+}
+
